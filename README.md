@@ -26,6 +26,7 @@ python scrap.py <url>
 
 ### URL адреса на которых тестировалось и результаты тестов
 https://lenta.ru/news/2016/07/01/vapersong/
+
 Результат
 ```
 lenta.ru/news/2016/07/01/vapersong.txt
@@ -52,6 +53,7 @@ lenta.ru/news/2016/07/01/vapersong.txt
 ```
 
 http://www.gazeta.ru/business/news/2016/07/04/n_8843207.shtml
+
 Результат
 ```
 www.gazeta.ru/business/news/2016/07/04/n_8843207.shtm.txt
